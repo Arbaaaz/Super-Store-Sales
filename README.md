@@ -1,6 +1,6 @@
-#Super-Store-Sales
+# Super-Store-Sales
 
-##As a data analyst, I specialize in analyzing and interpreting sales data to unlock untapped opportunities and drive profitability. 📊💡
+## As a data analyst, I specialize in analyzing and interpreting sales data to unlock untapped opportunities and drive profitability. 📊💡
 
 🌐 In my role, I've delved into payment mode preferences, regional sales dynamics, and customer segment behaviors, offering actionable recommendations to enhance the Super Store's market position. 💼
 
